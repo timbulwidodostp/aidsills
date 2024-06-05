@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p aidsills Estimate (Estimating) almost-ideal demand systems (AIDS) with endogenous regressors using iterated linear least squares Use aidsills With STATA 18
