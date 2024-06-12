@@ -1,6 +1,8 @@
 # aidsills
 Estimate (Estimating) almost-ideal demand systems (AIDS) with endogenous regressors using iterated linear least squares Use aidsills With STATA 18
 
+https://www.youtube.com/watch?v=71Y42dUPVcQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
